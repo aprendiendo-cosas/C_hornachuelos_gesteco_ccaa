@@ -85,13 +85,15 @@ Secuencia de actividades
       + Se trata de una actividad tradicional que genera muchos empleos en la zona, aunque está en declive por la falta de mano de obra cualificada.
       + A pesar de que el corcho es un producto con multitud de aplicaciones (aislamiento de varios tipos), su extracción no es muy rentable económicamente. El valor añadido se adquiere cuando se procesa para generar productos directamente utilizables. Lamentablemente las empresas que hacen esta transformación están en otros territorios (Cataluña y Portugal fundamentalmente).
     
-      
+      ![corcho](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/alcornoque.jpg)
     
     + Tanto Ángeles como Beatriz (técnica de la empresa TRAGSA) comentan durante el recorrido varias cuestiones relacionadas con la gestión del parque y concretamente con el uso público. En una de las conversaciones se describe un conflicto interesante: Ángeles tiene una empresa de turismo activo que, entre otras actividades, ofrece la realización de un sendero parecido al que recorremos. Dicho sendero discurre cerca de los límites de una finca privada en la que, de vez en cuanto, se realizan batidas de caza. El conflicto surge porque el uso público y la caza son incompatibles. No es viable que haya excursionistas en el campo los días en los que hay caza. En una ocasión se autorizó una batida en un día en el que Ángeles ya tenía previamente organizado una actividad en el mencionado sendero. Ella no podía cambiar la fecha porque ya tenía muchas reservas. El conficto se resolvió porque los cazadores pudieron mover su actividad a otra fecha. La generosidad por ambas partes y la visión compartida del bien común ayudó a encontrar una solución aceptable para todos.
     
       ![charla](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/charla_bea.jpg)
     
-    + ñlkjñkl
+    + Por último, tenemos la oportunidad de ver elementos culturales que se encuentran en el recorrido. Concretamente vemos un horno de cal que se utilizaba antiguamente para generar la pintura con la que se encalaban las casas. Este patrimonio cultural también es conservado en el contexto del espacio protegido.
+    
+    
 
 
 
