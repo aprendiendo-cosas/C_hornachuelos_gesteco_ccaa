@@ -37,21 +37,20 @@ Este acto docente tiene dos objetivos generales. Por un lado veremos *in situ* e
 
 ## Presupuesto, proyectos y entidades patrocinadoras de la actividad
 
-Esta actividad docente está financiado al 50% por la Diputación de Córdoba y la Universidad de Córdoba.
+Esta actividad ha permitido que 50 estudiantes del grado de ciencias ambientales y del máster geoforest compartan tres días de trabajo en el Parque Natural de Hornachuelos. Aunque la actividad se planificó inicialmente para visitar el Parque Natural de Cardeña y Montoro, al final tuvimos que cambiar de plan por limitaciones presupuestarias. Las actividades en Cardeña eran más costosas que en Hornachuelos.
 
-ponemos aquí que antes era Cardeña y luego Hornachuelos. Esta parte solo para la Decana. Desviación sobre lo previsto inicialmente.
+La actividad implicó un coste total de 5620 €. La financiación corrió a cargo de la Universidad de Córdoba y de la Diputación de Córdoba prácticamente a partes iguales. La coordinación entre ambas instituciones ha permitido realizar esta actividad, por lo que consideramos interesante desglosar con detalle la procedencia de los fondos utilizados:
 
-
-
-Indicar que la parte financiada por el proyecto de innovación docente se encuadra en la actividad 1.1.1 (Conocer los problemas de gestión forestal)
++ La Diputación de Córdoba aportó un total de 3800€ que se invirtieron en el desplazamiento en Bus entre Córdoba y Hornachuelos así como en el alojamiento de todos los estudiantes y profesores.
++ La Universidad de Córdoba aportó los siguientes fondos:
+  + El proyecto de innovación docente denominado "Enlazando teoría y práctica: capacitando profesionales con problemas reales en la gestión de los recursos naturales", aportó 550 € para financiar los desplazamientos entre el lugar de alojamiento (Apartamentos "El Álamo") y el Centro de visitantes Huerta del Rey, que es donde se desarrollaron la mayoría de las actividades. Dentro de este proyecto, la actividad realizada se enmarca en la actividad 1.1.1 (Conocer los problemas de gestión forestal).
+  + La dotación anual que reciben los profesores de la UCO se invirtió en su totalidad (1270€) en financiar el alquiler de una sala de reuniones en los Apartamentos "El Álamo". Usamos esa sala para realizar actividades grupales que se detallarán en los siguientes apartados de este documento.
 
 
 
 ## Secuencia de actividades desarrolladas y material docente
 
-poner aquí fotos para la decana
 
-Secuencia de actividades
 
 #### Día 1
 
@@ -93,7 +92,7 @@ Secuencia de actividades
     
     + Por último, tenemos la oportunidad de ver elementos culturales que se encuentran en el recorrido. Concretamente vemos un horno de cal que se utilizaba antiguamente para generar la pintura con la que se encalaban las casas. Este patrimonio cultural también es conservado en el contexto del espacio protegido.
     
-    
+    ![horno](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/hornocal.jpg)
 
 
 
