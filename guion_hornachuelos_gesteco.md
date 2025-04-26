@@ -56,8 +56,11 @@ Secuencia de actividades
 #### Día 1
 
 + La actividad se inició el día 6 de marzo de 2025 a las 9:00 en las escalinatas del edificio de Gobierno del Campus de Rabanales. Allí tomamos el autobús hacia el pueblo de Hornachuelos.
+
 + Llegamos al centro de visitantes de Hornachuelos sobre las 10:00. Allí nos recibió Ángeles Álvarez Siles, que es la persona encargada de gestionar el mencionado centro de visitantes. También regenta con su familia el restaurante donde se sirven las comidas de la salida. 
+
 + Ángeles nos recibió con un desayuno molinero que nos supo muy bien :)
+
 + Tras llenar el estómago realizamos un sendero en los alrededores del Centro de Visitantes (Huerta del Rey). El siguiente mapa muestra el recorrido realizado, que tuvo una longitud de unos 5 Km. Durante el sendero trabajamos las siguientes cuestiones:
 
 + <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1H2Cy91GRUhhE1TCE2jU3u4Bs2F22adc&ehbc=2E312F" width="640" height="480"></iframe>
@@ -69,11 +72,15 @@ Secuencia de actividades
     ![flora](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/flora.png)
     
     + Además del bonito paseo, observamos los principales impactos que la actividad humana provoca en el encinar y en la dehesa típicos de Hornachuelos:
+    
       + Podas inadecuadas en los árboles que fomentan la infección de los mismos.
       + Retirada excesiva del matorral para fomentar el pasto. Esto aumenta la vulnerabilidad de los árboles para resultar infectados por especies invasoras como la fitóptora (*Phytophthora cinnamomi*).
       + Exceso de pastoreo en algunos sitios que aumenta la compactación del suelo y también debilita a los árboles.
       + Escaso reclutamiento de los árboles debido también a la excesiva presión ganadera.
-    + 
+    
+      ![seca](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/seca.jpg)
+    
+    + Tanto Ángeles como Beatriz (técnica de la empresa TRAGSA) comentan durante el recorrido varias cuestiones relacionadas con la gestión del parque y concretamente con el uso público. En una de las conversaciones se describe un conflicto interesante: Ángeles tiene una empresa de turismo activo que, entre otras actividades, ofrece la realización de un sendero parecido al que recorremos. Dicho sendero discurre cerca de los límites de una finca privada en la que, de vez en cuanto, se realizan batidas de caza. El conflicto surge porque el uso público y la caza son incompatibles. No es viable que haya excursionistas en el campo los días en los que hay caza. En una ocasión se autorizó una batida en un día en el que Ángeles ya tenía previamente organizado una actividad en el mencionado sendero. Ella no podía cambiar la fecha porque ya tenía muchas reservas. El conficto se resolvió porque los cazadores pudieron mover su actividad a otra fecha. La generosidad por ambas partes y la visión compartida del bien común ayudó a encontrar una solución aceptable para todos.
 
 
 
