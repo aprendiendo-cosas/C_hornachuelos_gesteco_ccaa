@@ -11,27 +11,61 @@
 
 
 ## Objetivos docentes
-La finalidad última de este acto docente es doble. Por un lado veremos *in situ* elementos estructurales, composicionales y funcionales de algunos tipos de ecosistemas mediterráneos. Por otro observaremos la componente práctica del concepto de gestión de ecosistemas considerando alguna de sus mútiple fuentes de incertidumbre. Los objetivos más específicos son los siguientes y se agrupan en dos tipos:
+Este acto docente tiene dos objetivos generales. Por un lado veremos *in situ* elementos estructurales, composicionales y funcionales de algunos tipos de ecosistemas mediterráneos. Por otro observaremos la componente práctica del concepto de gestión de ecosistemas considerando alguna de sus mútiple fuentes de incertidumbre. Los objetivos más específicos son los siguientes y se agrupan en dos tipos:
 + Disciplinares (tienen que ver con la ciencia de la gestión de los ecosistemas):
+  
   + Ver en la realidad elementos estructurales, composicionales y funcionales de los ecosistemas.
-  + Familiarizarse con los retos socioecológicos asignados a cada grupo.
+  
+  + Familiarizarse con los retos socioecológicos y con los problemas de gestión forestal del espacio visitado.
   + Conocer marcos conceptuales teóricos útiles para la gestión de ecosistemas.
   + Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
   + Experimentar de primera mano la complejidad de la naturaleza.
   + Experimentar en campo los retos de la gestión del medio natural.
   + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre (socio)ecología. 
-  + Entender en "cabeza propia" la diferencia entre teoría y práctica.
+  + Enlazar mediante una actividad grupal conceptos teóricos con prácticas de campo.
+  
 + Instrumentales (relacionados con competencias transversales):
+  + Cultivar relaciones interdisciplinares entre los participantes de distinto nivel universitario y fuera de la Universidad.
   + Mejorar las habilidades de trabajo en equipo.
   + Recabar información para abordar el trabajo de reto de gestión calificable para la asignatura.
   + Aplicar los conocimientos adquiridos en otras asignaturas del grado.
   + Pasar unos días al aire libre con colegas y amigos.
   + Disfrutar de la naturaleza.
   + Desconectar un poco de la rutina del día a día...
+  
+  
+
+## Presupuesto, proyectos y entidades patrocinadoras de la actividad
 
 Esta actividad docente está financiado al 50% por la Diputación de Córdoba y la Universidad de Córdoba.
 
-## Actividades desarrolladas 
+ponemos aquí que antes era Cardeña y luego Hornachuelos. Esta parte solo para la Decana. Desviación sobre lo previsto inicialmente.
+
+
+
+Indicar que la parte financiada por el proyecto de innovación docente se encuadra en la actividad 1.1.1 (Conocer los problemas de gestión forestal)
+
+
+
+## Secuencia de actividades desarrolladas y material docente
+
+poner aquí fotos para la decana
+
+Secuencia de actividades
+
+#### Día 1
+
++ La actividad se inició el día 6 de marzo de 2025 a las 9:00 en las escalinatas del edificio de Gobierno del Campus de Rabanales. Allí tomamos el autobús hacia el pueblo de Hornachuelos.
++ Llegamos al centro de visitantes de Hornachuelos sobre las 10:00. Allí nos recibió Ángeles Álvarez Siles, que es la persona encargada de gestionar el mencionado centro de visitantes. También regenta con su familia el restaurante donde se sirven las comidas de la salida. 
++ Ángeles nos recibió con un desayuno molinero que nos supo muy bien :)
++ Tras llenar el estómago realizamos un sendero en los alrededores del Centro de Visitantes (Huerta del Rey). El siguiente mapa muestra el recorrido realizado, que tuvo una longitud de unos 5 Km. Durante el sendero trabajamos las siguientes cuestiones:
+
++ <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1H2Cy91GRUhhE1TCE2jU3u4Bs2F22adc&ehbc=2E312F" width="640" height="480"></iframe>
+
+    + Recorrimos una buena representación del bosque mediterráneo típico del P. N. de Hornachuelos. Observamos la floración de muchas plantas entre las que destacan las orquídeas. 
+
+
+
 
 
 
