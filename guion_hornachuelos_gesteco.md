@@ -63,6 +63,17 @@ Secuencia de actividades
 + <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1H2Cy91GRUhhE1TCE2jU3u4Bs2F22adc&ehbc=2E312F" width="640" height="480"></iframe>
 
     + Recorrimos una buena representación del bosque mediterráneo típico del P. N. de Hornachuelos. Observamos la floración de muchas plantas entre las que destacan las orquídeas. 
+    
+    
+    
+    ![flora](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/flora.png)
+    
+    + Además del bonito paseo, observamos los principales impactos que la actividad humana provoca en el encinar y en la dehesa típicos de Hornachuelos:
+      + Podas inadecuadas en los árboles que fomentan la infección de los mismos.
+      + Retirada excesiva del matorral para fomentar el pasto. Esto aumenta la vulnerabilidad de los árboles para resultar infectados por especies invasoras como la fitóptora (*Phytophthora cinnamomi*).
+      + Exceso de pastoreo en algunos sitios que aumenta la compactación del suelo y también debilita a los árboles.
+      + Escaso reclutamiento de los árboles debido también a la excesiva presión ganadera.
+    + 
 
 
 
