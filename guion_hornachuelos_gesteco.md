@@ -52,7 +52,7 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
 
 
 
-#### Día 1
+#### Día 1 (6 de marzo)
 
 + La actividad se inició el día 6 de marzo de 2025 a las 9:00 en las escalinatas del edificio de Gobierno del Campus de Rabanales. Allí tomamos el autobús hacia el pueblo de Hornachuelos.
 
@@ -92,11 +92,44 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
     
     + Por último, tenemos la oportunidad de ver elementos culturales que se encuentran en el recorrido. Concretamente vemos un horno de cal que se utilizaba antiguamente para generar la pintura con la que se encalaban las casas. Este patrimonio cultural también es conservado en el contexto del espacio protegido.
     
-    ![horno](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/hornocal.jpg)
+      ![horno](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/hornocal.jpg)
+    
+    + Tras la excursión, y después de comer, abordamos la primera sesión de trabajo en grupo. El objetivo de la misma es conocer las bases teóricas para abordar retos socioecológicos complejos. Entre estos retos abundan los problemas relacionados con la gestión forestal debido a que este tipo de ecosistemas son muy abundantes en la zona de estudio. Para trasladar a los estudiantes las particularidades de los llamados "problemas complejos" (wicked problems en inglés) ya tuvimos una sesión teórica en clase (ver contenidos [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/2024_2025/guion_problemas_retorcidos.html)). En esta ocasión el objetivo es trasladar a los estudiantes algunas ideas sobre cómo se pueden abordar estos problemas difícilmente formularbles y por tanto "resolubles". Para ello usamos como hilo argumental [esta](https://ucordoba-my.sharepoint.com/:p:/g/personal/bv2bogaf_uco_es/EYYp2mEbfClNuN64bqWyE3UBCkuAwhAbZ3K9TcU5nbogHg?e=tHVbd3) presentación, que a su vez se basa en [este](https://www.15-15-15.org/webzine/2019/02/03/bailar-con-sistemas/) texto de Donella Meadows.
+    
+    + Después de la introducción teórica, damos paso a la primera sesión de trabajo en la que los grupos de estudiantes se enfrentan por primera vez al reto socioecológico que les ha sido asignado. Explicamos la metodología propuesta para su abordaje (ver contenidos [aquí](https://raw.githack.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/guion_tarea_reto_socioecologico.html)) y comenzamos a trabajar en la [primera](https://raw.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/main/guion_reconocimiento_reto.html) y [segunda](https://raw.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/main/guion_actores_reto.html) fase de esta metodología. A modo de resumen, estas dos fases implican un reconocimiento por parte de los estudiantes del reto asignado teniendo en cuenta la componente ecológica y la social del mismo. A modo ilustrativo, se muestran a continuación los retos socioecológicos con los que trabaja la clase:
+    
+      + Retos grupales:
+        + ¿Cómo podríamos conservar la dehesa manteniendo sus aprovechamientos ganaderos y agrícolas?
+        + ¿De qué forma se podría compatibilizar la conservación del bosque mediterráneo con la caza mayor en Sierra Morena?
+        + ¿Cómo podemos minimizar la recurrencia de incendios forestales y su impacto?
+        + ¿Cómo planificamos la gestión de ecosistemas en un contexto de cambio climático?
+        + ¿Cómo podemos compatibilizar la propiedad privada de los ecosistemas de Sierra Morena con su conservación?
+        + ¿Cómo podemos hacer sostenible ambiental y socialmente la reintroducción del lobo en Sierra Morena?
+        + ¿Cómo se puede aumentar la eficacia de las medidas compensatorias de una obra civil?
+        + ¿De qué forma se pueden compatibilizar el uso público, los aprovechamientos productivos y la conservación en Sierra Morena?
+      + Retos individuales
+        + ¿De qué forma pueden coexistir de manera sostenible la caza y el lince en Sierra Morena?
+        + ¿Cómo podríamos compatibilizar el aprovechamiento del cangrejo rojo americano con su estatus como invasora en la marisma del Guadalquivir?
+        + ¿Cómo podríamos asegurar la supervivencia de especies esteparias ante la intensificación agrícola y el aumento del regadío?
+        + ¿De qué manera podríamos reducir el impacto negativo del alga *Rugulopteryx okamurae* sobre los ecosistemas costeros andaluces?
+        + ¿Cómo podemos mejorar la conectividad ecológica entre los espacios naturales protegidos de Andalucía?
+        + ¿Qué procedimientos podemos implementar para reducir el impacto del decaimiento forestal en los pinares de repoblación de Andalucía?
+        + ¿Cómo podemos mejorar las medidas de restauración de zonas quemadas en Andalucía?
+        + ¿De qué forma se pueden hacer sostenibles la conservación de Doñana y los cultivos agrícolas intensivos en un contexto de cambio climático?
+        + ¿Cómo se puede mejorar la conectividad ecológica de los ríos andaluces sin reducir su capacidad de regulación de avenidas?
+        + ¿Cómo podríamos reducir el impacto del cambio climático en los ecosistemas de Sierra Nevada?
+        + ¿Cómo se puede hacer más sostenible la gestión pesquera en Andalucía?
+        + ¿Cómo podríamos compatibilizar la ganadería vacuna extensiva con la conservación de hábitats frágiles (ej. Borreguiles) en Sierra Nevada?
+    
+      
+    
+      
+    
+    
 
 
 
-
+#### Dia 2 (7 de marzo)
 
 
 
