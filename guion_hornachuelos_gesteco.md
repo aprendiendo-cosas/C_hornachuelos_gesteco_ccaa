@@ -133,7 +133,30 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
 
 #### Dia 2 (7 de marzo)
 
-+ El segundo día de la excursión empezó con una interesante charla a cargo del director-conservador del Parque Natural de Hornachuelos. Jorge Paniagua, que además es profesor asociado en la Universidad de Córdoba, nos contó muchas cosas relevantes sobre el espacio protegido. Su intervención se centró fundamentalmente en los siguientes aspectos. [Aquí](https://github.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/raw/refs/heads/main/presentacion/jorge_07_03_2025%20UCO.pptx) se puede descargar la presentación que usó durante su intervención.
++ El segundo día de la excursión empezó con una interesante charla a cargo del director-conservador del Parque Natural de Hornachuelos. Jorge Paniagua, que además es profesor asociado en la Universidad de Córdoba, nos contó muchas cosas relevantes sobre el espacio protegido. Su intervención se centró fundamentalmente en los aspectos descritos a continuación. [Aquí](https://github.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/jorge_07_03_2025_UCO.pptx) se puede descargar la presentación que usó durante su intervención.
+
+  + Generalidades sobre figuras de protección de la Naturaleza en Andalucía.
+  + Definición de Parque Natural.
+  + Figuras de protección de Hornachuelos. 
+  + Características ecológicas de Hornachuelos. En la explicación, Jorge hizo hincapié en los retos socioecológicos que estamos abordando en clase y que están relacionados con la dehesa (caza mayor y sostenibilidad de la dehesa).
+  + Régimen de propiedad de Hornachuelos. Esto suscitó un interesante debate ya que la mayor parte del espacio protegido es de propiedad privada. Esto es importante para los estudiantes que abordan el reto de la dialéctica propiedad pública y privada en la conservación de la naturaleza.
+  + Principales servicios ecosistémicos suministrados por Hornachuelos. Se comentó el aprovechamiento del corcho y del a caza mayor fundamentalmente. 
+  + Zonificación del espacio protegido. Jorge habló de los distintos tipos de zonas dentro del Parque Natural y de su régimen de usos y aprovechamientos.
+  + Por último, el director del parque dedicó unos minutos a comentar los principales conflictos de gestión en Hornachuelos. Estos conflictos están relacionados en buena medida con la abundancia de fincas privadas en el espacio.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Lista de cosas a traer
