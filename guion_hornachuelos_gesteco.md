@@ -163,9 +163,19 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
 
 + Después de la edificante charla con Jorge, comemos y descansamos un rato y esperamos a que pase una nube con lluvia... Después abordamos el penúltimo paso en nuestra salida a Hornachuelos. Damos un paseo a pie para acceder a la Finca de la Fuensanta, que está a unos 3 Km del centro de visitantes. El objetivo de la visita es comprobar cómo se maneja una finca privada y qué visión tienen los que la manejan del espacio protegido.
 
+![fuensanta](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/fuensanta1.jpg)
 
-
-
++ Una vez en la finca, damos un paseo con Juan de Dios, que es el guarda de la misma. En esta zona de Sierra Morena, los guardas viven en las fincas aunque no son su propietarios. Se encargan de su mantenimiento en varios aspectos: manejo del ganado, de los cultivos, podas de árboles, etc. Juan de Dios nos atiende amablemente y nos traslada su visión de la gestión de la naturaleza. Esta visión nos resulta un poco anacrónica porque pone el foco en cuestiones ya superadas por el conocimiento ecológico actual. Lo escuchamos atentamente sin juzgar sus opiniones. Los estudiantes contactan por primera vez en esta visita con alguien con el que no están de acuerdo. Algunos de los comentarios más relevantes de Juan De Dios son:
+  + No considera que el parque de Hornachuelos sea un problema para la finca. Tiene buena relación con el director y con los agentes. Considera que siempre tratan de ayudar aunque no siempre estén de acuerdo.
+  + La finca que él gestiona tiene los siguientes aprovechamientos:
+    + Algo de corcho.
+    + Ganado bravo.
+    + Algo de agricultura extensiva.
+  + Los actuales dueños de la finca tienen una visión conservacionista de la misma, por lo que las actividades de extracción de recursos no son muy frecuentes.
+  + Considera que el clima está cambiando y eso tiene sus consecuencias. No ve cambios en la precipitación, aunque sí observa que las temperaturas son cada vez más altas. Sobre todo cree que los inviernos son cada vez más cálidos.
+  + Cree que la gestión forestal debe de ser más "intensa". Tiene un concepto de vegetación en el que tanto el matorral como los árboles "mal formados" son prescindibles. No producen nada y por tanto se pueden eliminar. Esta concepción es muy habitual en ámbitos rurales. Está relacionada con una visión de "monocultivo" del monte. Expresado en términos modernos, consideran que los sistemas naturales deben de gestionarse para producir mucha cantidad de un único o de pocos servicios ecosistémicos. Hoy día sabemos que esa visión genera inestabilidad en los ecosistemas y aumenta su vulnerabilidad frente a las perturbaciones.
+  + En la visión anterior hay elementos del ecosistema que directamente sobran y que no deberían de estar. Los reptiles son uno de estos elementos. Juan de Dios cree que lo que él llama "bichas" pueden ser eliminados sin problemas. 
++ 
 
 
 
