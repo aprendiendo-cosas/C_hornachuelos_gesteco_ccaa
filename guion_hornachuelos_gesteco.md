@@ -131,7 +131,7 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
 
 
 
-#### Dia 2 (7 de marzo)
+#### Día 2 (7 de marzo)
 
 + El segundo día de la excursión empezó con una interesante charla a cargo del director-conservador del Parque Natural de Hornachuelos. Jorge Paniagua, que además es profesor asociado en la Universidad de Córdoba, nos contó muchas cosas relevantes sobre el espacio protegido. Su intervención se centró fundamentalmente en los aspectos descritos a continuación. [Aquí](https://github.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/jorge_07_03_2025_UCO.pptx) se puede descargar la presentación que usó durante su intervención.
 
@@ -175,38 +175,18 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
   + Considera que el clima está cambiando y eso tiene sus consecuencias. No ve cambios en la precipitación, aunque sí observa que las temperaturas son cada vez más altas. Sobre todo cree que los inviernos son cada vez más cálidos.
   + Cree que la gestión forestal debe de ser más "intensa". Tiene un concepto de vegetación en el que tanto el matorral como los árboles "mal formados" son prescindibles. No producen nada y por tanto se pueden eliminar. Esta concepción es muy habitual en ámbitos rurales. Está relacionada con una visión de "monocultivo" del monte. Expresado en términos modernos, consideran que los sistemas naturales deben de gestionarse para producir mucha cantidad de un único o de pocos servicios ecosistémicos. Hoy día sabemos que esa visión genera inestabilidad en los ecosistemas y aumenta su vulnerabilidad frente a las perturbaciones.
   + En la visión anterior hay elementos del ecosistema que directamente sobran y que no deberían de estar. Los reptiles son uno de estos elementos. Juan de Dios cree que lo que él llama "bichas" pueden ser eliminados sin problemas. 
-+ 
+
+![fuensanta2](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/fuensanta2.jpg)
+
++ Tras el paseo por la Fuensanta cenamos y tenemos una última sesión de trabajo en grupo en el comedor de la residencia El Álamo. Avanzamos en la fase 1 de la caracterización de los retos socioecológicos.
 
 
 
+#### Día 3 (8 de marzo)
 
-
-
-
-
-
-
-## Lista de cosas a traer
-
-Además de muchas ganas de pasar unos días disfrutando y aprendiendo, debes de traer lo siguiente
-- Aparejos para dormir. Haremos noche en una nave diáfana que nos ofrece gratuitamente el ayuntamiento de Cardeña. No hay camas, sino mucho suelo. Así que, necesitaremos lo siguiente:
-  - Saco de dormir o ropa de cama.  
-  - Esterilla o colchón inflable.
-  - Tapones de los oídos y una linterna son recomendables.
-
-- Botella para rellenar de agua.
-- Cuaderno y lápiz
-- Calzado de campo. Zapatillas de deporte o botas, si puede ser impermeables. Si no, llevad una muda por si se mojan. Nada de chanclas (ni de zapatos con tacón...)
-- Ropa de abrigo. No es necesario abrigo para invierno extremo, pero sí algo para un otoño incipiente.
-- Chubasquero. Si puede ser mejor poncho para resguardarse bien de la lluvia. También  un paraguas que a la hora de tomar notas en campo es mejor.
-- Muda. Suena obvio, pero cuenta la leyenda que algunos estudiantes fueron al campo con solo una muda de ropa. Llovió y su profesor tuvo que prestarles ropa...
-- Toalla y demás utensilios de aseo personal.
-- Algún dispositivo para hacer fotos y grabar en video (valen móviles).
-- Comida. La UCO cubre todas las comidas excepto las siguientes:
-  - Desayuno y almuerzo del primer día. 
-  - Almuerzo del tercer día. Volveremos a Córdoba sobre las 15, así que igual no hace falta que traigas nada para ese día. 
-- Tentenpiés para picar entre comidas (galletas, frutos secos, fruta,...).
-- Muchas ganas de aprender, de participar y de convivir :). Ya lo he dicho antes, pero de esto ha que traer dos raciones.
++ El tercer y último día empieza con una última sesión de trabajo en grupo en el salón suminstrado por el alojamiento El Álamo. Tenemos que trabajar allí porque la lluvia nos impide ir al centro de visitantes. Los estudiantes comentan las experiencias de los días anteriores y los aprendizajes adquiridos. 
++ Tras esta sesión, nos dirijimos en autobús al embalse de la Breña II. Allí hablamos de las medidas compensatorias que se pusieron en marcha tras la construcción de dicho embalse. La lluvia nos impidió salir a ver buena parte de las medidas *in situ*, así que tuvimos que verlas desde el autobús. También visitamos el centro de interpretación de La Breña, así como el jardín botánico creado como consecuencia de las medidas compensatorias.
++ Llegamos a Córdoba el día 8 a las 15:00 horas. Con esto finalizó la salida.
 
 
 
@@ -223,3 +203,4 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/C_hornachuelos_gesteco_cc
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
 
 <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
+
