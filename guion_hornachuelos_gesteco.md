@@ -133,7 +133,7 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
 
 #### Dia 2 (7 de marzo)
 
-+ El segundo día de la excursión empezó con una interesante charla a cargo del director-conservador del Parque Natural de Hornachuelos. Jorge Paniagua, que además es profesor asociado en la Universidad de Córdoba, nos contó muchas cosas relevantes sobre el espacio protegido. Su intervención se centró fundamentalmente en los siguientes aspectos
++ El segundo día de la excursión empezó con una interesante charla a cargo del director-conservador del Parque Natural de Hornachuelos. Jorge Paniagua, que además es profesor asociado en la Universidad de Córdoba, nos contó muchas cosas relevantes sobre el espacio protegido. Su intervención se centró fundamentalmente en los siguientes aspectos. [Aquí](https://github.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/raw/refs/heads/main/presentacion/jorge_07_03_2025%20UCO.pptx) se puede descargar la presentación que usó durante su intervención.
 
 
 ## Lista de cosas a traer
