@@ -121,17 +121,19 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
         + ¿Cómo se puede hacer más sostenible la gestión pesquera en Andalucía?
         + ¿Cómo podríamos compatibilizar la ganadería vacuna extensiva con la conservación de hábitats frágiles (ej. Borreguiles) en Sierra Nevada?
     
-      
     
-      
+    Tras la actividad y la cena, nos desplazamos al alojamiento El Álamo donde pasamos la primera noche.
     
+    
+    
+    ![trabajo_grupo](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/trabajo_grupo.jpg)
     
 
 
 
 #### Dia 2 (7 de marzo)
 
-
++ El segundo día de la excursión empezó con una interesante charla a cargo del director-conservador del Parque Natural de Hornachuelos. Jorge Paniagua, que además es profesor asociado en la Universidad de Córdoba, nos contó muchas cosas relevantes sobre el espacio protegido. Su intervención se centró fundamentalmente en los siguientes aspectos
 
 
 ## Lista de cosas a traer
