@@ -146,7 +146,7 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
 
   
 
-
+![jorge1](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/jorge1.jpg)
 
 
 
