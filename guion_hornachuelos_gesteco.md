@@ -150,6 +150,23 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
 
 
 
++ Tras la sesión en el aula, salimos a los alrededores del centro de visitantes para comentar cuestiones más generales relacionadas con el día a día del trabajo de director-conservador de un espacio protegido. A continuación se muestran algunas de las ideas principales:
+
+  + Preguntamos a Jorge por los recursos que tiene a su alcance para gestionar el parque natural. Su respuesta da a entender que son claramente insuficientes. No tiene prácticamente apoyo técnico (solo una persona contratada por la empresa pública TRAGSA, que además trabaja también para el parque de Cardeña-Montoro). Los agentes de medio ambiente no se dedican exclusivamente al Parque Natural, sino que sus áreas de trabajo se definen en virtud de zonas geográficas más amplias. A efectos de la asignatura de gestión de ecosistemas, esto nos hace comprobar que la gestión ambiental no es un aspecto prioritario en la gobernanza de la sociedad.
+  + Al hilo de la gobernanza, preguntamos al director por la geometría de las relaciones del parque con los distintos elementos jerárquicos de la Consejería de Medio Ambiente. La pregunta concreta es si considera que sus necesidades son atendidas y si las directrices generales que surgen de los servicios centrales de la Consejería (situados en Sevilla) contribuyen a resolver los problemas de gestión del parque. Jorge indica que las relaciones son buenas en lo personal, pero muy mejorables en cuanto a considerar las particularidades de cada escala. Las directrices de los servicios centrales suelen ser muy generales y se ajustan poco a las condiciones locales. Esto aplica a casi todos los ámbitos de la gestión, pero hablamos en esta charla sobre todo con relación a el régimen de autorizaciones. La administración tiende a sobrecargar de papeleo y burocracia a los ciudadanos de los entornos rurales, que suelen tener menos capacidad de satisfacer los trámites que se les exigen. Además, identificamos carencias de comunicación que dificultan la llegada a los servicios centrales de las necesidades de un espacio protegido como Hornachuelos.
+  + También hablamos de los conflictos entre los propietarios de las fincas y la administración del espacio protegido. Jorge nos sorprendió argumentando que, si bien hay algunos conflictos, estos siempre se resuelven con buena voluntad por todas las partes. Esto coincide con lo ya visto en clase sobre los conflictos: solo se pueden considerar resueltos cuando todas las partes implicadas consideran que han ganado algo. De nuevo, este proceso de acompañamiento y de negociación ocurre gracias al voluntarismo de las personas que trabajan en el parque natural.
+  + Por último, reflexionamos sobre el concepto de reto complejo y sobre su abordaje por parte de Jorge y su equipo. Concretamente preguntamos sobre las habilidades que, según él, son necesarias para abordar con cierto éxito este tipo de problemas. Su experiencia coincide en buena medida con la idea de "bailar con la complejidad" que hemos tratado de trasladar en clase. La buena noticia es que en esta ocasión nuestros estudiantes no tendrán que adquirir esos conocimientos tras años de experiencia. Están teniendo la oportunidad de adquirirlos de manera reglada en la universidad :)
+
+  ![jorge2](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/jorge2.jpg)
+
+
+
++ Después de la edificante charla con Jorge, comemos y descansamos un rato y esperamos a que pase una nube con lluvia... Después abordamos el penúltimo paso en nuestra salida a Hornachuelos. Damos un paseo a pie para acceder a la Finca de la Fuensanta, que está a unos 3 Km del centro de visitantes. El objetivo de la visita es comprobar cómo se maneja una finca privada y qué visión tienen los que la manejan del espacio protegido.
+
+
+
+
+
 
 
 
@@ -182,9 +199,6 @@ Además de muchas ganas de pasar unos días disfrutando y aprendiendo, debes de 
 - Muchas ganas de aprender, de participar y de convivir :). Ya lo he dicho antes, pero de esto ha que traer dos raciones.
 
 
-
-## Resultados
-Después de la excursión dedicamos un par de sesiones en clase para reflexionar sobre lo que habíamos aprendido. Distinguimos de aprendizajes "científico-técnicos" (relativos a la ciencia de la gestión de ecosistemas) y otros más "sociales" o humanos (fundamentalmente los relativos a las relaciones interprofesionales y a la relación ciencia-sociedad). En [esta](https://github.com/aprendiendo-cosas/C_cardenia_gesteco/blob/2023_2024/presentacion/reflexiones_post_cardenia.pptx/?raw=true) presesentación se incluyen las notas que usamos como guía para dicha reflexión. Y [aquí](https://ucordoba-my.sharepoint.com/:f:/g/personal/bv2bogaf_uco_es/EhcI-W_1TMVFtALyOqkJsL0Bv9P8aenA0RS2VlR-SRm_sg?e=9OxqRu) puedes ver las fotos que tomamos los profesores durante la salida.
 
 
 
