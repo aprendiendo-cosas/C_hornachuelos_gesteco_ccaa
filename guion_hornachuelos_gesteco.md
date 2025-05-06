@@ -7,7 +7,7 @@
 > + **_Autor_**:  Curro Bonet García (fjbonet@uco.es)
 > + **_Fechas_**: 6-8 de marzo de 2025
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/portada.jpg)
 
 
 ## Objetivos docentes
@@ -37,7 +37,7 @@ Este acto docente tiene dos objetivos generales. Por un lado veremos *in situ* e
 
 ## Presupuesto, proyectos y entidades patrocinadoras de la actividad
 
-Esta actividad ha permitido que 50 estudiantes del grado de ciencias ambientales y del máster geoforest compartan tres días de trabajo en el Parque Natural de Hornachuelos. Aunque la actividad se planificó inicialmente para visitar el Parque Natural de Cardeña y Montoro, al final tuvimos que cambiar de plan por limitaciones presupuestarias. Las actividades en Cardeña eran más costosas que en Hornachuelos.
+Esta actividad ha permitido que unos 35 estudiantes del grado de ciencias ambientales compartan tres días de trabajo en el Parque Natural de Hornachuelos. 
 
 La actividad implicó un coste total de 5620 €. La financiación corrió a cargo de la Universidad de Córdoba y de la Diputación de Córdoba prácticamente a partes iguales. La coordinación entre ambas instituciones ha permitido realizar esta actividad, por lo que consideramos interesante desglosar con detalle la procedencia de los fondos utilizados:
 
@@ -68,7 +68,7 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
     
     
     
-    ![flora](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/flora.png)
+    ![flora](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/flora.png)
     
     + Además del bonito paseo, observamos los principales impactos que la actividad humana provoca en el encinar y en la dehesa típicos de Hornachuelos:
     
@@ -77,26 +77,26 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
       + Exceso de pastoreo en algunos sitios que aumenta la compactación del suelo y también debilita a los árboles.
       + Escaso reclutamiento de los árboles debido también a la excesiva presión ganadera.
     
-      ![seca](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/seca.jpg)
+      ![seca](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/seca.jpg)
     
     + En algunas partes del recorrido abundaban los alcornoques (*Quercus suber*). Esto nos permitió hablar sobre el aprovechamiento del corcho:
     
       + Se trata de una actividad tradicional que genera muchos empleos en la zona, aunque está en declive por la falta de mano de obra cualificada.
       + A pesar de que el corcho es un producto con multitud de aplicaciones (aislamiento de varios tipos), su extracción no es muy rentable económicamente. El valor añadido se adquiere cuando se procesa para generar productos directamente utilizables. Lamentablemente las empresas que hacen esta transformación están en otros territorios (Cataluña y Portugal fundamentalmente).
     
-      ![corcho](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/alcornoque.jpg)
+      ![corcho](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/alcornoque.jpg)
     
     + Tanto Ángeles como Beatriz (técnica de la empresa TRAGSA) comentan durante el recorrido varias cuestiones relacionadas con la gestión del parque y concretamente con el uso público. En una de las conversaciones se describe un conflicto interesante: Ángeles tiene una empresa de turismo activo que, entre otras actividades, ofrece la realización de un sendero parecido al que recorremos. Dicho sendero discurre cerca de los límites de una finca privada en la que, de vez en cuanto, se realizan batidas de caza. El conflicto surge porque el uso público y la caza son incompatibles. No es viable que haya excursionistas en el campo los días en los que hay caza. En una ocasión se autorizó una batida en un día en el que Ángeles ya tenía previamente organizado una actividad en el mencionado sendero. Ella no podía cambiar la fecha porque ya tenía muchas reservas. El conficto se resolvió porque los cazadores pudieron mover su actividad a otra fecha. La generosidad por ambas partes y la visión compartida del bien común ayudó a encontrar una solución aceptable para todos.
     
-      ![charla](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/charla_bea.jpg)
+      ![charla](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/charla_bea.jpg)
     
     + Por último, tenemos la oportunidad de ver elementos culturales que se encuentran en el recorrido. Concretamente vemos un horno de cal que se utilizaba antiguamente para generar la pintura con la que se encalaban las casas. Este patrimonio cultural también es conservado en el contexto del espacio protegido.
     
-      ![horno](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/hornocal.jpg)
+      ![horno](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/hornocal.jpg)
     
     + Tras la excursión, y después de comer, abordamos la primera sesión de trabajo en grupo. El objetivo de la misma es conocer las bases teóricas para abordar retos socioecológicos complejos. Entre estos retos abundan los problemas relacionados con la gestión forestal debido a que este tipo de ecosistemas son muy abundantes en la zona de estudio. Para trasladar a los estudiantes las particularidades de los llamados "problemas complejos" (wicked problems en inglés) ya tuvimos una sesión teórica en clase (ver contenidos [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/2024_2025/guion_problemas_retorcidos.html)). En esta ocasión el objetivo es trasladar a los estudiantes algunas ideas sobre cómo se pueden abordar estos problemas difícilmente formularbles y por tanto "resolubles". Para ello usamos como hilo argumental [esta](https://ucordoba-my.sharepoint.com/:p:/g/personal/bv2bogaf_uco_es/EYYp2mEbfClNuN64bqWyE3UBCkuAwhAbZ3K9TcU5nbogHg?e=tHVbd3) presentación, que a su vez se basa en [este](https://www.15-15-15.org/webzine/2019/02/03/bailar-con-sistemas/) texto de Donella Meadows.
     
-    + Después de la introducción teórica, damos paso a la primera sesión de trabajo en la que los grupos de estudiantes se enfrentan por primera vez al reto socioecológico que les ha sido asignado. Explicamos la metodología propuesta para su abordaje (ver contenidos [aquí](https://raw.githack.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/guion_tarea_reto_socioecologico.html)) y comenzamos a trabajar en la [primera](https://raw.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/main/guion_reconocimiento_reto.html) y [segunda](https://raw.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/main/guion_actores_reto.html) fase de esta metodología. A modo de resumen, estas dos fases implican un reconocimiento por parte de los estudiantes del reto asignado teniendo en cuenta la componente ecológica y la social del mismo. A modo ilustrativo, se muestran a continuación los retos socioecológicos con los que trabaja la clase:
+    + Después de la introducción teórica, damos paso a la primera sesión de trabajo en la que los grupos de estudiantes se enfrentan por primera vez al reto socioecológico que les ha sido asignado. Explicamos la metodología propuesta para su abordaje (ver contenidos [aquí](https://raw.githack.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/2024_2025/guion_tarea_reto_socioecologico.html)) y comenzamos a trabajar en la [primera](https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2024-2025/guion_reconocimiento_reto.html) y [segunda](https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2024_2025/guion_actores_reto.html) fase de esta metodología. A modo de resumen, estas dos fases implican un reconocimiento por parte de los estudiantes del reto asignado teniendo en cuenta la componente ecológica y la social del mismo. A modo ilustrativo, se muestran a continuación los retos socioecológicos con los que trabaja la clase:
     
       + Retos grupales:
         + ¿Cómo podríamos conservar la dehesa manteniendo sus aprovechamientos ganaderos y agrícolas?
@@ -126,7 +126,7 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
     
     
     
-    ![trabajo_grupo](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/trabajo_grupo.jpg)
+    ![trabajo_grupo](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/trabajo_grupo.jpg)
     
 
 
@@ -146,7 +146,7 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
 
   
 
-![jorge1](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/jorge1.jpg)
+![jorge1](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/jorge1.jpg)
 
 
 
@@ -157,13 +157,21 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
   + También hablamos de los conflictos entre los propietarios de las fincas y la administración del espacio protegido. Jorge nos sorprendió argumentando que, si bien hay algunos conflictos, estos siempre se resuelven con buena voluntad por todas las partes. Esto coincide con lo ya visto en clase sobre los conflictos: solo se pueden considerar resueltos cuando todas las partes implicadas consideran que han ganado algo. De nuevo, este proceso de acompañamiento y de negociación ocurre gracias al voluntarismo de las personas que trabajan en el parque natural.
   + Por último, reflexionamos sobre el concepto de reto complejo y sobre su abordaje por parte de Jorge y su equipo. Concretamente preguntamos sobre las habilidades que, según él, son necesarias para abordar con cierto éxito este tipo de problemas. Su experiencia coincide en buena medida con la idea de "bailar con la complejidad" que hemos tratado de trasladar en clase. La buena noticia es que en esta ocasión nuestros estudiantes no tendrán que adquirir esos conocimientos tras años de experiencia. Están teniendo la oportunidad de adquirirlos de manera reglada en la universidad :)
 
-  ![jorge2](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/jorge2.jpg)
+  ![jorge2](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/jorge2.jpg)
 
 
 
-+ Después de la edificante charla con Jorge, comemos y descansamos un rato y esperamos a que pase una nube con lluvia... Después abordamos el penúltimo paso en nuestra salida a Hornachuelos. Damos un paseo a pie para acceder a la Finca de la Fuensanta, que está a unos 3 Km del centro de visitantes. El objetivo de la visita es comprobar cómo se maneja una finca privada y qué visión tienen los que la manejan del espacio protegido.
++ Después de la edificante charla con Jorge, comemos y descansamos un rato y esperamos a que pase una nube con lluvia... Después abordamos el penúltimo paso en nuestra salida a Hornachuelos. Damos un paseo a pie para acceder a la Finca de la Fuensanta, que está a unos 3 Km del centro de visitantes. El objetivo de la visita es comprobar cómo se maneja una finca privada y qué visión tienen los que la manejan del espacio protegido. El siguiente mapa muestra el itinerario realizado.
 
-![fuensanta](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/fuensanta1.jpg)
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_TIk4GyfQ8NJnR75sEKbfM7v0AFl9V0&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+
+![fuensanta](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/fuensanta1.jpg)
+
+
 
 + Una vez en la finca, damos un paseo con Juan de Dios, que es el guarda de la misma. En esta zona de Sierra Morena, los guardas viven en las fincas aunque no son su propietarios. Se encargan de su mantenimiento en varios aspectos: manejo del ganado, de los cultivos, podas de árboles, etc. Juan de Dios nos atiende amablemente y nos traslada su visión de la gestión de la naturaleza. Esta visión nos resulta un poco anacrónica porque pone el foco en cuestiones ya superadas por el conocimiento ecológico actual. Lo escuchamos atentamente sin juzgar sus opiniones. Los estudiantes contactan por primera vez en esta visita con alguien con el que no están de acuerdo. Algunos de los comentarios más relevantes de Juan De Dios son:
   + No considera que el parque de Hornachuelos sea un problema para la finca. Tiene buena relación con el director y con los agentes. Considera que siempre tratan de ayudar aunque no siempre estén de acuerdo.
@@ -176,16 +184,20 @@ La actividad implicó un coste total de 5620 €. La financiación corrió a car
   + Cree que la gestión forestal debe de ser más "intensa". Tiene un concepto de vegetación en el que tanto el matorral como los árboles "mal formados" son prescindibles. No producen nada y por tanto se pueden eliminar. Esta concepción es muy habitual en ámbitos rurales. Está relacionada con una visión de "monocultivo" del monte. Expresado en términos modernos, consideran que los sistemas naturales deben de gestionarse para producir mucha cantidad de un único o de pocos servicios ecosistémicos. Hoy día sabemos que esa visión genera inestabilidad en los ecosistemas y aumenta su vulnerabilidad frente a las perturbaciones.
   + En la visión anterior hay elementos del ecosistema que directamente sobran y que no deberían de estar. Los reptiles son uno de estos elementos. Juan de Dios cree que lo que él llama "bichas" pueden ser eliminados sin problemas. 
 
-![fuensanta2](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/heads/main/imagenes/fuensanta2.jpg)
-
-+ Tras el paseo por la Fuensanta cenamos y tenemos una última sesión de trabajo en grupo en el comedor de la residencia El Álamo. Avanzamos en la fase 1 de la caracterización de los retos socioecológicos.
+![fuensanta2](https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/fuensanta2.jpg)
 
 
 
 #### Día 3 (8 de marzo)
 
-+ El tercer y último día empieza con una última sesión de trabajo en grupo en el salón suminstrado por el alojamiento El Álamo. Tenemos que trabajar allí porque la lluvia nos impide ir al centro de visitantes. Los estudiantes comentan las experiencias de los días anteriores y los aprendizajes adquiridos. 
-+ Tras esta sesión, nos dirijimos en autobús al embalse de la Breña II. Allí hablamos de las medidas compensatorias que se pusieron en marcha tras la construcción de dicho embalse. La lluvia nos impidió salir a ver buena parte de las medidas *in situ*, así que tuvimos que verlas desde el autobús. También visitamos el centro de interpretación de La Breña, así como el jardín botánico creado como consecuencia de las medidas compensatorias.
++ El tercer y último día empieza con un viaje en autobús al embalse de la Breña II. Allí hablamos de las medidas compensatorias que se pusieron en marcha tras la construcción de dicho embalse. La lluvia nos impidió salir a ver buena parte de las medidas *in situ*, así que tuvimos que verlas desde el autobús. También visitamos el centro de interpretación de La Breña, así como el jardín botánico creado como consecuencia de las medidas compensatorias. El siguiente mapa muestra la ubicación de los lugares visitados.
+
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14FW8eGyF93heamsqg_DZc46K_og4VBA&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+
 + Llegamos a Córdoba el día 8 a las 15:00 horas. Con esto finalizó la salida.
 
 

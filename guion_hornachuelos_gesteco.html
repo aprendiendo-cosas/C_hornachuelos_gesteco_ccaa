@@ -1,0 +1,618 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+.mac-os-11 { --title-bar-height: 28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.428571; overflow-x: hidden; background: inherit; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-size-adjust: inherit; font-kerning: inherit; font-variant-alternates: inherit; font-variant-ligatures: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-feature-settings: inherit; font-optical-sizing: inherit; font-variation-settings: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+thead, tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right-width: 0px; border-right-style: none; border-right-color: currentcolor; background-color: inherit; }
+.CodeMirror-linenumber { -webkit-user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
+  .typora-export * { print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: medium; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: medium !important; border-style: none !important; border-color: currentcolor !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom-width: 0px; border-bottom-style: none; border-bottom-color: currentcolor; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: medium; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.mermaid-svg { margin: auto; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; overflow-wrap: anywhere; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.428571rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left-width: 28px; border-left-style: solid; border-left-color: transparent; border-right-width: 28px; border-right-style: solid; border-right-color: transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right-width: 8px; border-right-style: solid; border-right-color: transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
+.md-alert.md-alert-note { border-left-color: rgb(9, 105, 218); }
+.md-alert.md-alert-important { border-left-color: rgb(130, 80, 223); }
+.md-alert.md-alert-warning { border-left-color: rgb(154, 103, 0); }
+.md-alert.md-alert-tip { border-left-color: rgb(31, 136, 61); }
+.md-alert.md-alert-caution { border-left-color: rgb(207, 34, 46); }
+.md-alert { padding: 0px 1em; margin-bottom: 16px; color: inherit; border-left-width: 0.25em; border-left-style: solid; border-left-color: rgb(0, 0, 0); }
+.md-alert-text-note { color: rgb(9, 105, 218); }
+.md-alert-text-important { color: rgb(130, 80, 223); }
+.md-alert-text-warning { color: rgb(154, 103, 0); }
+.md-alert-text-tip { color: rgb(31, 136, 61); }
+.md-alert-text-caution { color: rgb(207, 34, 46); }
+.md-alert-text { font-size: 0.9rem; font-weight: 700; }
+.md-alert-text svg { fill: currentcolor; position: relative; top: 0.125em; margin-right: 1ch; overflow: visible; }
+.md-alert-text-container::after { content: attr(data-text); text-transform: capitalize; pointer-events: none; margin-right: 1ch; }
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1024px;
+	}
+}
+
+@media only screen and (min-width: 1800px) {
+	#write {
+		max-width: 1200px;
+	}
+}
+
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+
+/*@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
+
+    .typora-export h1::after,
+    .typora-export h2::after {
+        content: "";
+        display: block;
+        height: 100px;
+        margin-top: -96px;
+        border-top: 1px solid #eee;
+    }
+}*/
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table th:first-child,
+table td:first-child {
+    margin-top: 0;
+}
+table th:last-child,
+table td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    pre {
+        page-break-inside: avoid;
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.mac-os #write{
+    caret-color: AccentColor;
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+/*.html-for-mac {
+    --item-hover-bg-color: #E6F0FE;
+}*/
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+    opacity: 0.4;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+.menu-item-container a.menu-style-btn {
+    background-color: #f5f8fa;
+    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
+}
+
+
+ @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
+</style><title>guion_hornachuelos_gesteco</title>
+</head>
+<body class='typora-export'><div class='typora-export-content'>
+<div id='write'  class=''><h1 id='salida-de-campo-al-parque-natural-de-hornachuelos-córdoba'><span>Salida de campo al Parque Natural de Hornachuelos (Córdoba)</span></h1><blockquote><ul><li><p><strong><em><span>Tipo de material</span></em></strong><span>: </span><span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"><span> Salida campo</span></span></p></li><li><p><strong><em><span>Versión</span></em></strong><span>: 2024-2025</span></p></li><li><p><strong><em><span>Asignatura (grado)</span></em></strong><span>: Gestión de ecosistemas (CCAA)</span></p></li><li><p><strong><em><span>Autor</span></em></strong><span>:  Curro Bonet García (fjbonet@uco.es)</span></p></li><li><p><strong><em><span>Fechas</span></em></strong><span>: 6-8 de marzo de 2025</span></p></li></ul></blockquote><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/portada.jpg" referrerpolicy="no-referrer" alt="portada"></p><h2 id='objetivos-docentes'><span>Objetivos docentes</span></h2><p><span>Este acto docente tiene dos objetivos generales. Por un lado veremos </span><em><span>in situ</span></em><span> elementos estructurales, composicionales y funcionales de algunos tipos de ecosistemas mediterráneos. Por otro observaremos la componente práctica del concepto de gestión de ecosistemas considerando alguna de sus mútiple fuentes de incertidumbre. Los objetivos más específicos son los siguientes y se agrupan en dos tipos:</span></p><ul><li><p><span>Disciplinares (tienen que ver con la ciencia de la gestión de los ecosistemas):</span></p><ul><li><p><span>Ver en la realidad elementos estructurales, composicionales y funcionales de los ecosistemas.</span></p></li><li><p><span>Familiarizarse con los retos socioecológicos y con los problemas de gestión forestal del espacio visitado.</span></p></li><li><p><span>Conocer marcos conceptuales teóricos útiles para la gestión de ecosistemas.</span></p></li><li><p><span>Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.</span></p></li><li><p><span>Experimentar de primera mano la complejidad de la naturaleza.</span></p></li><li><p><span>Experimentar en campo los retos de la gestión del medio natural.</span></p></li><li><p><span>Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre (socio)ecología. </span></p></li><li><p><span>Enlazar mediante una actividad grupal conceptos teóricos con prácticas de campo.</span></p></li></ul></li><li><p><span>Instrumentales (relacionados con competencias transversales):</span></p><ul><li><p><span>Cultivar relaciones interdisciplinares entre los participantes de distinto nivel universitario y fuera de la Universidad.</span></p></li><li><p><span>Mejorar las habilidades de trabajo en equipo.</span></p></li><li><p><span>Recabar información para abordar el trabajo de reto de gestión calificable para la asignatura.</span></p></li><li><p><span>Aplicar los conocimientos adquiridos en otras asignaturas del grado.</span></p></li><li><p><span>Pasar unos días al aire libre con colegas y amigos.</span></p></li><li><p><span>Disfrutar de la naturaleza.</span></p></li><li><p><span>Desconectar un poco de la rutina del día a día...</span></p></li></ul><p>&nbsp;</p></li></ul><h2 id='presupuesto-proyectos-y-entidades-patrocinadoras-de-la-actividad'><span>Presupuesto, proyectos y entidades patrocinadoras de la actividad</span></h2><p><span>Esta actividad ha permitido que unos 35 estudiantes del grado de ciencias ambientales compartan tres días de trabajo en el Parque Natural de Hornachuelos. </span></p><p><span>La actividad implicó un coste total de 5620 €. La financiación corrió a cargo de la Universidad de Córdoba y de la Diputación de Córdoba prácticamente a partes iguales. La coordinación entre ambas instituciones ha permitido realizar esta actividad, por lo que consideramos interesante desglosar con detalle la procedencia de los fondos utilizados:</span></p><ul><li><p><span>La Diputación de Córdoba aportó un total de 3800€ que se invirtieron en el desplazamiento en Bus entre Córdoba y Hornachuelos así como en el alojamiento de todos los estudiantes y profesores.</span></p></li><li><p><span>La Universidad de Córdoba aportó los siguientes fondos:</span></p><ul><li><p><span>El proyecto de innovación docente denominado &quot;Enlazando teoría y práctica: capacitando profesionales con problemas reales en la gestión de los recursos naturales&quot;, aportó 550 € para financiar los desplazamientos entre el lugar de alojamiento (Apartamentos &quot;El Álamo&quot;) y el Centro de visitantes Huerta del Rey, que es donde se desarrollaron la mayoría de las actividades. Dentro de este proyecto, la actividad realizada se enmarca en la actividad 1.1.1 (Conocer los problemas de gestión forestal).</span></p></li><li><p><span>La dotación anual que reciben los profesores de la UCO se invirtió en su totalidad (1270€) en financiar el alquiler de una sala de reuniones en los Apartamentos &quot;El Álamo&quot;. Usamos esa sala para realizar actividades grupales que se detallarán en los siguientes apartados de este documento.</span></p></li></ul></li></ul><p>&nbsp;</p><h2 id='secuencia-de-actividades-desarrolladas-y-material-docente'><span>Secuencia de actividades desarrolladas y material docente</span></h2><p>&nbsp;</p><h4 id='día-1-6-de-marzo'><span>Día 1 (6 de marzo)</span></h4><ul><li><p><span>La actividad se inició el día 6 de marzo de 2025 a las 9:00 en las escalinatas del edificio de Gobierno del Campus de Rabanales. Allí tomamos el autobús hacia el pueblo de Hornachuelos.</span></p></li><li><p><span>Llegamos al centro de visitantes de Hornachuelos sobre las 10:00. Allí nos recibió Ángeles Álvarez Siles, que es la persona encargada de gestionar el mencionado centro de visitantes. También regenta con su familia el restaurante donde se sirven las comidas de la salida. </span></p></li><li><p><span>Ángeles nos recibió con un desayuno molinero que nos supo muy bien :)</span></p></li><li><p><span>Tras llenar el estómago realizamos un sendero en los alrededores del Centro de Visitantes (Huerta del Rey). El siguiente mapa muestra el recorrido realizado, que tuvo una longitud de unos 5 Km. Durante el sendero trabajamos las siguientes cuestiones:</span></p></li><li><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1H2Cy91GRUhhE1TCE2jU3u4Bs2F22adc&ehbc=2E312F" width="640" height="480"></iframe><ul><li><p><span>Recorrimos una buena representación del bosque mediterráneo típico del P. N. de Hornachuelos. Observamos la floración de muchas plantas entre las que destacan las orquídeas. </span></p></li></ul><p>&nbsp;</p><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/flora.png" referrerpolicy="no-referrer" alt="flora"></p><ul><li><p><span>Además del bonito paseo, observamos los principales impactos que la actividad humana provoca en el encinar y en la dehesa típicos de Hornachuelos:</span></p><ul><li><p><span>Podas inadecuadas en los árboles que fomentan la infección de los mismos.</span></p></li><li><p><span>Retirada excesiva del matorral para fomentar el pasto. Esto aumenta la vulnerabilidad de los árboles para resultar infectados por especies invasoras como la fitóptora (</span><em><span>Phytophthora cinnamomi</span></em><span>).</span></p></li><li><p><span>Exceso de pastoreo en algunos sitios que aumenta la compactación del suelo y también debilita a los árboles.</span></p></li><li><p><span>Escaso reclutamiento de los árboles debido también a la excesiva presión ganadera.</span></p></li></ul><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/seca.jpg" referrerpolicy="no-referrer" alt="seca"></p></li><li><p><span>En algunas partes del recorrido abundaban los alcornoques (</span><em><span>Quercus suber</span></em><span>). Esto nos permitió hablar sobre el aprovechamiento del corcho:</span></p><ul><li><p><span>Se trata de una actividad tradicional que genera muchos empleos en la zona, aunque está en declive por la falta de mano de obra cualificada.</span></p></li><li><p><span>A pesar de que el corcho es un producto con multitud de aplicaciones (aislamiento de varios tipos), su extracción no es muy rentable económicamente. El valor añadido se adquiere cuando se procesa para generar productos directamente utilizables. Lamentablemente las empresas que hacen esta transformación están en otros territorios (Cataluña y Portugal fundamentalmente).</span></p></li></ul><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/alcornoque.jpg" referrerpolicy="no-referrer" alt="corcho"></p></li><li><p><span>Tanto Ángeles como Beatriz (técnica de la empresa TRAGSA) comentan durante el recorrido varias cuestiones relacionadas con la gestión del parque y concretamente con el uso público. En una de las conversaciones se describe un conflicto interesante: Ángeles tiene una empresa de turismo activo que, entre otras actividades, ofrece la realización de un sendero parecido al que recorremos. Dicho sendero discurre cerca de los límites de una finca privada en la que, de vez en cuanto, se realizan batidas de caza. El conflicto surge porque el uso público y la caza son incompatibles. No es viable que haya excursionistas en el campo los días en los que hay caza. En una ocasión se autorizó una batida en un día en el que Ángeles ya tenía previamente organizado una actividad en el mencionado sendero. Ella no podía cambiar la fecha porque ya tenía muchas reservas. El conficto se resolvió porque los cazadores pudieron mover su actividad a otra fecha. La generosidad por ambas partes y la visión compartida del bien común ayudó a encontrar una solución aceptable para todos.</span></p><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/charla_bea.jpg" referrerpolicy="no-referrer" alt="charla"></p></li><li><p><span>Por último, tenemos la oportunidad de ver elementos culturales que se encuentran en el recorrido. Concretamente vemos un horno de cal que se utilizaba antiguamente para generar la pintura con la que se encalaban las casas. Este patrimonio cultural también es conservado en el contexto del espacio protegido.</span></p><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/hornocal.jpg" referrerpolicy="no-referrer" alt="horno"></p></li><li><p><span>Tras la excursión, y después de comer, abordamos la primera sesión de trabajo en grupo. El objetivo de la misma es conocer las bases teóricas para abordar retos socioecológicos complejos. Entre estos retos abundan los problemas relacionados con la gestión forestal debido a que este tipo de ecosistemas son muy abundantes en la zona de estudio. Para trasladar a los estudiantes las particularidades de los llamados &quot;problemas complejos&quot; (wicked problems en inglés) ya tuvimos una sesión teórica en clase (ver contenidos </span><a href='https://rawcdn.githack.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/2024_2025/guion_problemas_retorcidos.html'><span>aquí</span></a><span>). En esta ocasión el objetivo es trasladar a los estudiantes algunas ideas sobre cómo se pueden abordar estos problemas difícilmente formularbles y por tanto &quot;resolubles&quot;. Para ello usamos como hilo argumental </span><a href='https://ucordoba-my.sharepoint.com/:p:/g/personal/bv2bogaf_uco_es/EYYp2mEbfClNuN64bqWyE3UBCkuAwhAbZ3K9TcU5nbogHg?e=tHVbd3'><span>esta</span></a><span> presentación, que a su vez se basa en </span><a href='https://www.15-15-15.org/webzine/2019/02/03/bailar-con-sistemas/'><span>este</span></a><span> texto de Donella Meadows.</span></p></li><li><p><span>Después de la introducción teórica, damos paso a la primera sesión de trabajo en la que los grupos de estudiantes se enfrentan por primera vez al reto socioecológico que les ha sido asignado. Explicamos la metodología propuesta para su abordaje (ver contenidos </span><a href='https://raw.githack.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/2024_2025/guion_tarea_reto_socioecologico.html'><span>aquí</span></a><span>) y comenzamos a trabajar en la </span><a href='https://rawcdn.githack.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/2024-2025/guion_reconocimiento_reto.html'><span>primera</span></a><span> y </span><a href='https://rawcdn.githack.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/2024_2025/guion_actores_reto.html'><span>segunda</span></a><span> fase de esta metodología. A modo de resumen, estas dos fases implican un reconocimiento por parte de los estudiantes del reto asignado teniendo en cuenta la componente ecológica y la social del mismo. A modo ilustrativo, se muestran a continuación los retos socioecológicos con los que trabaja la clase:</span></p><ul><li><p><span>Retos grupales:</span></p><ul><li><p><span>¿Cómo podríamos conservar la dehesa manteniendo sus aprovechamientos ganaderos y agrícolas?</span></p></li><li><p><span>¿De qué forma se podría compatibilizar la conservación del bosque mediterráneo con la caza mayor en Sierra Morena?</span></p></li><li><p><span>¿Cómo podemos minimizar la recurrencia de incendios forestales y su impacto?</span></p></li><li><p><span>¿Cómo planificamos la gestión de ecosistemas en un contexto de cambio climático?</span></p></li><li><p><span>¿Cómo podemos compatibilizar la propiedad privada de los ecosistemas de Sierra Morena con su conservación?</span></p></li><li><p><span>¿Cómo podemos hacer sostenible ambiental y socialmente la reintroducción del lobo en Sierra Morena?</span></p></li><li><p><span>¿Cómo se puede aumentar la eficacia de las medidas compensatorias de una obra civil?</span></p></li><li><p><span>¿De qué forma se pueden compatibilizar el uso público, los aprovechamientos productivos y la conservación en Sierra Morena?</span></p></li></ul></li><li><p><span>Retos individuales</span></p><ul><li><p><span>¿De qué forma pueden coexistir de manera sostenible la caza y el lince en Sierra Morena?</span></p></li><li><p><span>¿Cómo podríamos compatibilizar el aprovechamiento del cangrejo rojo americano con su estatus como invasora en la marisma del Guadalquivir?</span></p></li><li><p><span>¿Cómo podríamos asegurar la supervivencia de especies esteparias ante la intensificación agrícola y el aumento del regadío?</span></p></li><li><p><span>¿De qué manera podríamos reducir el impacto negativo del alga </span><em><span>Rugulopteryx okamurae</span></em><span> sobre los ecosistemas costeros andaluces?</span></p></li><li><p><span>¿Cómo podemos mejorar la conectividad ecológica entre los espacios naturales protegidos de Andalucía?</span></p></li><li><p><span>¿Qué procedimientos podemos implementar para reducir el impacto del decaimiento forestal en los pinares de repoblación de Andalucía?</span></p></li><li><p><span>¿Cómo podemos mejorar las medidas de restauración de zonas quemadas en Andalucía?</span></p></li><li><p><span>¿De qué forma se pueden hacer sostenibles la conservación de Doñana y los cultivos agrícolas intensivos en un contexto de cambio climático?</span></p></li><li><p><span>¿Cómo se puede mejorar la conectividad ecológica de los ríos andaluces sin reducir su capacidad de regulación de avenidas?</span></p></li><li><p><span>¿Cómo podríamos reducir el impacto del cambio climático en los ecosistemas de Sierra Nevada?</span></p></li><li><p><span>¿Cómo se puede hacer más sostenible la gestión pesquera en Andalucía?</span></p></li><li><p><span>¿Cómo podríamos compatibilizar la ganadería vacuna extensiva con la conservación de hábitats frágiles (ej. Borreguiles) en Sierra Nevada?</span></p></li></ul></li></ul></li></ul><p><span>Tras la actividad y la cena, nos desplazamos al alojamiento El Álamo donde pasamos la primera noche.</span></p><p>&nbsp;</p><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/trabajo_grupo.jpg" referrerpolicy="no-referrer" alt="trabajo_grupo"></p></li></ul><p>&nbsp;</p><h4 id='día-2-7-de-marzo'><span>Día 2 (7 de marzo)</span></h4><ul><li><p><span>El segundo día de la excursión empezó con una interesante charla a cargo del director-conservador del Parque Natural de Hornachuelos. Jorge Paniagua, que además es profesor asociado en la Universidad de Córdoba, nos contó muchas cosas relevantes sobre el espacio protegido. Su intervención se centró fundamentalmente en los aspectos descritos a continuación. </span><a href='https://github.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/jorge_07_03_2025_UCO.pptx'><span>Aquí</span></a><span> se puede descargar la presentación que usó durante su intervención.</span></p><ul><li><p><span>Generalidades sobre figuras de protección de la Naturaleza en Andalucía.</span></p></li><li><p><span>Definición de Parque Natural.</span></p></li><li><p><span>Figuras de protección de Hornachuelos. </span></p></li><li><p><span>Características ecológicas de Hornachuelos. En la explicación, Jorge hizo hincapié en los retos socioecológicos que estamos abordando en clase y que están relacionados con la dehesa (caza mayor y sostenibilidad de la dehesa).</span></p></li><li><p><span>Régimen de propiedad de Hornachuelos. Esto suscitó un interesante debate ya que la mayor parte del espacio protegido es de propiedad privada. Esto es importante para los estudiantes que abordan el reto de la dialéctica propiedad pública y privada en la conservación de la naturaleza.</span></p></li><li><p><span>Principales servicios ecosistémicos suministrados por Hornachuelos. Se comentó el aprovechamiento del corcho y del a caza mayor fundamentalmente. </span></p></li><li><p><span>Zonificación del espacio protegido. Jorge habló de los distintos tipos de zonas dentro del Parque Natural y de su régimen de usos y aprovechamientos.</span></p></li><li><p><span>Por último, el director del parque dedicó unos minutos a comentar los principales conflictos de gestión en Hornachuelos. Estos conflictos están relacionados en buena medida con la abundancia de fincas privadas en el espacio.</span></p></li></ul><p>&nbsp;</p></li></ul><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/jorge1.jpg" referrerpolicy="no-referrer" alt="jorge1"></p><p>&nbsp;</p><ul><li><p><span>Tras la sesión en el aula, salimos a los alrededores del centro de visitantes para comentar cuestiones más generales relacionadas con el día a día del trabajo de director-conservador de un espacio protegido. A continuación se muestran algunas de las ideas principales:</span></p><ul><li><p><span>Preguntamos a Jorge por los recursos que tiene a su alcance para gestionar el parque natural. Su respuesta da a entender que son claramente insuficientes. No tiene prácticamente apoyo técnico (solo una persona contratada por la empresa pública TRAGSA, que además trabaja también para el parque de Cardeña-Montoro). Los agentes de medio ambiente no se dedican exclusivamente al Parque Natural, sino que sus áreas de trabajo se definen en virtud de zonas geográficas más amplias. A efectos de la asignatura de gestión de ecosistemas, esto nos hace comprobar que la gestión ambiental no es un aspecto prioritario en la gobernanza de la sociedad.</span></p></li><li><p><span>Al hilo de la gobernanza, preguntamos al director por la geometría de las relaciones del parque con los distintos elementos jerárquicos de la Consejería de Medio Ambiente. La pregunta concreta es si considera que sus necesidades son atendidas y si las directrices generales que surgen de los servicios centrales de la Consejería (situados en Sevilla) contribuyen a resolver los problemas de gestión del parque. Jorge indica que las relaciones son buenas en lo personal, pero muy mejorables en cuanto a considerar las particularidades de cada escala. Las directrices de los servicios centrales suelen ser muy generales y se ajustan poco a las condiciones locales. Esto aplica a casi todos los ámbitos de la gestión, pero hablamos en esta charla sobre todo con relación a el régimen de autorizaciones. La administración tiende a sobrecargar de papeleo y burocracia a los ciudadanos de los entornos rurales, que suelen tener menos capacidad de satisfacer los trámites que se les exigen. Además, identificamos carencias de comunicación que dificultan la llegada a los servicios centrales de las necesidades de un espacio protegido como Hornachuelos.</span></p></li><li><p><span>También hablamos de los conflictos entre los propietarios de las fincas y la administración del espacio protegido. Jorge nos sorprendió argumentando que, si bien hay algunos conflictos, estos siempre se resuelven con buena voluntad por todas las partes. Esto coincide con lo ya visto en clase sobre los conflictos: solo se pueden considerar resueltos cuando todas las partes implicadas consideran que han ganado algo. De nuevo, este proceso de acompañamiento y de negociación ocurre gracias al voluntarismo de las personas que trabajan en el parque natural.</span></p></li><li><p><span>Por último, reflexionamos sobre el concepto de reto complejo y sobre su abordaje por parte de Jorge y su equipo. Concretamente preguntamos sobre las habilidades que, según él, son necesarias para abordar con cierto éxito este tipo de problemas. Su experiencia coincide en buena medida con la idea de &quot;bailar con la complejidad&quot; que hemos tratado de trasladar en clase. La buena noticia es que en esta ocasión nuestros estudiantes no tendrán que adquirir esos conocimientos tras años de experiencia. Están teniendo la oportunidad de adquirirlos de manera reglada en la universidad :)</span></p></li></ul><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/jorge2.jpg" referrerpolicy="no-referrer" alt="jorge2"></p></li></ul><p>&nbsp;</p><ul><li><p><span>Después de la edificante charla con Jorge, comemos y descansamos un rato y esperamos a que pase una nube con lluvia... Después abordamos el penúltimo paso en nuestra salida a Hornachuelos. Damos un paseo a pie para acceder a la Finca de la Fuensanta, que está a unos 3 Km del centro de visitantes. El objetivo de la visita es comprobar cómo se maneja una finca privada y qué visión tienen los que la manejan del espacio protegido. El siguiente mapa muestra el itinerario realizado.</span></p></li></ul><p>&nbsp;</p><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_TIk4GyfQ8NJnR75sEKbfM7v0AFl9V0&ehbc=2E312F" width="640" height="480"></iframe><p>&nbsp;</p><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/fuensanta1.jpg" referrerpolicy="no-referrer" alt="fuensanta"></p><p>&nbsp;</p><ul><li><p><span>Una vez en la finca, damos un paseo con Juan de Dios, que es el guarda de la misma. En esta zona de Sierra Morena, los guardas viven en las fincas aunque no son su propietarios. Se encargan de su mantenimiento en varios aspectos: manejo del ganado, de los cultivos, podas de árboles, etc. Juan de Dios nos atiende amablemente y nos traslada su visión de la gestión de la naturaleza. Esta visión nos resulta un poco anacrónica porque pone el foco en cuestiones ya superadas por el conocimiento ecológico actual. Lo escuchamos atentamente sin juzgar sus opiniones. Los estudiantes contactan por primera vez en esta visita con alguien con el que no están de acuerdo. Algunos de los comentarios más relevantes de Juan De Dios son:</span></p><ul><li><p><span>No considera que el parque de Hornachuelos sea un problema para la finca. Tiene buena relación con el director y con los agentes. Considera que siempre tratan de ayudar aunque no siempre estén de acuerdo.</span></p></li><li><p><span>La finca que él gestiona tiene los siguientes aprovechamientos:</span></p><ul><li><p><span>Algo de corcho.</span></p></li><li><p><span>Ganado bravo.</span></p></li><li><p><span>Algo de agricultura extensiva.</span></p></li></ul></li><li><p><span>Los actuales dueños de la finca tienen una visión conservacionista de la misma, por lo que las actividades de extracción de recursos no son muy frecuentes.</span></p></li><li><p><span>Considera que el clima está cambiando y eso tiene sus consecuencias. No ve cambios en la precipitación, aunque sí observa que las temperaturas son cada vez más altas. Sobre todo cree que los inviernos son cada vez más cálidos.</span></p></li><li><p><span>Cree que la gestión forestal debe de ser más &quot;intensa&quot;. Tiene un concepto de vegetación en el que tanto el matorral como los árboles &quot;mal formados&quot; son prescindibles. No producen nada y por tanto se pueden eliminar. Esta concepción es muy habitual en ámbitos rurales. Está relacionada con una visión de &quot;monocultivo&quot; del monte. Expresado en términos modernos, consideran que los sistemas naturales deben de gestionarse para producir mucha cantidad de un único o de pocos servicios ecosistémicos. Hoy día sabemos que esa visión genera inestabilidad en los ecosistemas y aumenta su vulnerabilidad frente a las perturbaciones.</span></p></li><li><p><span>En la visión anterior hay elementos del ecosistema que directamente sobran y que no deberían de estar. Los reptiles son uno de estos elementos. Juan de Dios cree que lo que él llama &quot;bichas&quot; pueden ser eliminados sin problemas. </span></p></li></ul></li></ul><p><img src="https://raw.githubusercontent.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/2024_2025/imagenes/fuensanta2.jpg" referrerpolicy="no-referrer" alt="fuensanta2"></p><p>&nbsp;</p><h4 id='día-3-8-de-marzo'><span>Día 3 (8 de marzo)</span></h4><ul><li><p><span>El tercer y último día empieza con un viaje en autobús al embalse de la Breña II. Allí hablamos de las medidas compensatorias que se pusieron en marcha tras la construcción de dicho embalse. La lluvia nos impidió salir a ver buena parte de las medidas </span><em><span>in situ</span></em><span>, así que tuvimos que verlas desde el autobús. También visitamos el centro de interpretación de La Breña, así como el jardín botánico creado como consecuencia de las medidas compensatorias. El siguiente mapa muestra la ubicación de los lugares visitados.</span></p></li></ul><p>&nbsp;</p><iframe src="https://www.google.com/maps/d/u/0/embed?mid=14FW8eGyF93heamsqg_DZc46K_og4VBA&ehbc=2E312F" width="640" height="480"></iframe><p>&nbsp;</p><ul><li><p><span>Llegamos a Córdoba el día 8 a las 15:00 horas. Con esto finalizó la salida.</span></p></li></ul><p>&nbsp;</p><p>&nbsp;</p><hr /><p><a href='https://github.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/refs/tags/2024_2025.zip'><span>Aquí</span></a><span> puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.</span></p><hr /><p><span>Haz click </span><a href='https://github.com/aprendiendo-cosas/C_hornachuelos_gesteco_ccaa/releases'><span>aquí</span></a><span> para ver cómo ha cambiado este guión en los distintos cursos académicos.</span></p><hr /> <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p><p>&nbsp;</p></div></div>
+</body>
+</html>
